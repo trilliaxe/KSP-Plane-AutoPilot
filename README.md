@@ -36,3 +36,8 @@ Before using this autopilot, make sure you have the following installed:
 4. Launch the autopilot:
    ```bash
    python <Program.py>
+
+## Object Alpha
+<img width="708" height="465" alt="image" src="https://github.com/user-attachments/assets/5bc7d69b-082b-4a1a-9344-cca090a9e543" />
+
+
