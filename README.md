@@ -33,7 +33,6 @@ Before using this autopilot, make sure you have the following installed:
 3. Activate your environment
    ```bash
    .pyvenv\Scripts\activate
-4.Launch the autopilot:
-
+4. Launch the autopilot:
    ```bash
-  python <Program.py>
+   python <Program.py>
